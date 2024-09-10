@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I like computers, music and visual arts! Most of my projects live at https://git.sr.ht/~juni/ these days.
+Hello. I like computers, music and visual arts! Most of my projects live at https://git.sr.ht/~juni/ these days.
 
 #### Here's what I did in the past:
 
